@@ -1,0 +1,6 @@
+Project: Git practice
+Version: 2
+Status: completed
+Author: Student
+Description: Practice of Git branching and pull requests
+Final result: approved
